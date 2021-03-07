@@ -1,4 +1,3 @@
-Aqui inserimos a descrição do projeto
+Projeto A.M.A.
 
-ambiente MASTER
-Entendendo o que acontece
+testes para o portfolio de design.
